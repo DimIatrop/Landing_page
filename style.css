@@ -1,0 +1,31 @@
+.container-one{
+    background-color:#1f2937;
+    color: #f9faf8;
+}
+.container-two{
+    display: flex;
+    
+}
+.random-information{
+    font-size: 36px;
+    font-style: extra-bold;
+    color:#1f2937;
+}
+.container-three{
+    background-color: #e5e7eb;
+}
+.famous-guy{
+    font-weight: bold;
+}
+.quote{
+    font-size: 36px;
+    font-style: italic;
+    font-weight:lighter;
+    color:#1f2937;
+}
+
+.container-four{
+    color:#e5e7eb;
+    background-color: #3882f6;
+
+}
